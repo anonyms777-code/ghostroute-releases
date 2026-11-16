@@ -1,0 +1,11 @@
+{
+  "version": "0.3.1",
+  "notes": "Живой призрак: каждая часть двигается отдельно",
+  "windows": {
+    "url": "https://github.com/anonyms777-code/ghostroute-releases/releases/download/v0.3.1/Ghostroute-Setup.exe",
+    "sha256": "11735914b66b10afa7acecd5c2838d842186e233a010ce4f72d985e4744b8be2"
+  },
+  "android": {
+    "url": "https://github.com/anonyms777-code/ghostroute-releases/releases/download/v0.3.1/Ghostroute.apk"
+  }
+}
