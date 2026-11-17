@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "После обновления программа сама запускается заново",
+  "version": "0.3.3",
+  "notes": "Подписки: вставь ссылку https:// — серверы vless:// добавятся сами и будут обновляться. Маршрутизация, переключатель режима на главной, новая анимация призрака.",
   "windows": {
-    "url": "https://github.com/anonyms777-code/ghostroute-releases/releases/download/v0.3.2/Ghostroute-Setup.exe",
-    "sha256": "415b543b3587764826bf3f30afd4c7ad46d96f1e00922a04487824d56ade3ff7"
+    "url": "https://github.com/anonyms777-code/ghostroute-releases/releases/download/v0.3.3/Ghostroute-Setup.exe",
+    "sha256": "503dec72d6cca826d6d2db7a1228d16c8cdecc1a1a84c5fa5a3aaaf6e4321efd"
   },
   "android": {
-    "url": "https://github.com/anonyms777-code/ghostroute-releases/releases/download/v0.3.2/Ghostroute.apk"
+    "url": "https://github.com/anonyms777-code/ghostroute-releases/releases/download/v0.3.3/Ghostroute.apk"
   }
 }
